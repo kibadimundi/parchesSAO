@@ -2,7 +2,7 @@
   "launcher": { "version": "1.3.0"},
   "versions": [
 	{
-	  "version": "SAO-2020-08",
+	  "version": "sao-2020-08",
 	  "full": [
 				{
 		  "action": "dl",
