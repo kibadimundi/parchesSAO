@@ -4,7 +4,7 @@
 	{
 	
 	  "version": "SAO-2020-08-musica",
-	  "prev": "SAO-2020-08"
+	  "prev": "SAO-2020-08",
 	  "full": [
 	  {
 		  "action": "dl",
@@ -14,7 +14,7 @@
 		{
 		  "action": "dl",
 		  "url": "https://dl.dropboxusercontent.com/s/om67t9jrmkukxl1/musicaJP.zip",
-		  "hash": "a861f37f10a7f1d404bb37db19133e1bb9922dd2"
+		  "hash": "b7bd51f35803fd6ad6462f097b1382ca4707af64"
 		},
 		{
 		  "action": "dl",
