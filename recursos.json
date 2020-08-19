@@ -6,8 +6,8 @@
 	  "version": "SAO-2020-08-musica",
 	  "prev": "SAO-2020-08",
 	  "update": [
-	  {
-		  "action": "dl",
+	    {"action": "deleteDir", "target": "base/sounds/music"},
+		  {"action": "dl",
 		  "url": "https://dl.dropboxusercontent.com/s/v9erjmtwr24tchv/musicaAI.zip",
 		  "hash": "cf861518e4216d51c42b323ebe3f4d9c35ad049e"
 		},
