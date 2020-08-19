@@ -4,13 +4,52 @@
 	{
 	  "version": "SAO-2020-08",
 	  "full": [
+				
 				{
 		  "action": "dl",
-		  "url": "https://dl.dropboxusercontent.com/s/e3yr3dau6tvir0l/personajesA.7z",
-		  "hash": "74a9cb0905495102fb2a5d419e9efe943d60c97d"
+		  "url": "https://dl.dropboxusercontent.com/s/5j1z3j4xsajzks0/musicaAI.zip",
+		  "hash": "3914c94a694559d03ffdba08c44b12fcd10bc5db"
+		},
+		{
+		  "action": "dl",
+		  "url": "https://dl.dropboxusercontent.com/s/kwt85xpjizg2itg/musicaJP.zip",
+		  "hash": "684c8ae6160007c796bc11c38e3f19004ba991e3"
+		},
+		{
+		  "action": "dl",
+		  "url": "https://dl.dropboxusercontent.com/s/35r9h3wkbqajn67/musicaQZ.zip",
+		  "hash": "7d4a65fafd6e2c67b0489228719c4d4125895f70"
+		},
+		{
+		  "action": "dl",
+		  "url": "https://dl.dropboxusercontent.com/s/ebe5thzl6w248wl/personajesA.zip",
+		  "hash": "898065d316a03ea58af05b85cdb11c70592c2e3d"
+		},
+		{
+		  "action": "dl",
+		  "url": "https://dl.dropboxusercontent.com/s/ia2xd1qtd5exyt3/personajesB.zip",
+		  "hash": "0bc32851704368a49340059c6551057cbc93f90f"
+		},
+		{
+		  "action": "dl",
+		  "url": "https://dl.dropboxusercontent.com/s/eve9aczk2n919gf/personajesC.zip",
+		  "hash": "2c99c2400cf732d1ec2b174a684241ec6041b579"
+		},
+		{
+		  "action": "dl",
+		  "url": "https://dl.dropboxusercontent.com/s/eve9aczk2n919gf/personajesC.zip",
+		  "hash": "2c99c2400cf732d1ec2b174a684241ec6041b579"
+		},
+		{
+		  "action": "dl",
+		  "url": "https://dl.dropboxusercontent.com/s/wai5r63qqpgi191/otros.zip",
+		  "hash": "714afce53cc4c819d69f0da91c4c1ad6613eeed5"
 		}
 	  ]
 	}
+	
+	
+	
 	
 	
   ]
