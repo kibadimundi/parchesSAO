@@ -2,23 +2,44 @@
   "launcher": { "version": "1.3.0"},
   "versions": [
 	{
+	
+	  "version": "SAO-2020-08-musica",
+	  "full": [
+	  {
+		  "action": "dl",
+		  "url": "https://dl.dropboxusercontent.com/s/v9erjmtwr24tchv/musicaAI.zip",
+		  "hash": "cf861518e4216d51c42b323ebe3f4d9c35ad049e"
+		},
+		{
+		  "action": "dl",
+		  "url": "https://dl.dropboxusercontent.com/s/om67t9jrmkukxl1/musicaJP.zip",
+		  "hash": "a861f37f10a7f1d404bb37db19133e1bb9922dd2"
+		},
+		{
+		  "action": "dl",
+		  "url": "https://dl.dropboxusercontent.com/s/vxnlmwtz5oizss8/musicaQZ.zip",
+		  "hash": "80229b97e048c47debd6fce8167cd49720eff9a2"
+		}
+	  ]
+	},
+	{
 	  "version": "SAO-2020-08",
 	  "full": [
 				
 				{
 		  "action": "dl",
-		  "url": "https://dl.dropboxusercontent.com/s/5j1z3j4xsajzks0/musicaAI.zip",
-		  "hash": "3914c94a694559d03ffdba08c44b12fcd10bc5db"
+		  "url": "https://dl.dropboxusercontent.com/s/v9erjmtwr24tchv/musicaAI.zip",
+		  "hash": "cf861518e4216d51c42b323ebe3f4d9c35ad049e"
 		},
 		{
 		  "action": "dl",
-		  "url": "https://dl.dropboxusercontent.com/s/kwt85xpjizg2itg/musicaJP.zip",
-		  "hash": "684c8ae6160007c796bc11c38e3f19004ba991e3"
+		  "url": "https://dl.dropboxusercontent.com/s/om67t9jrmkukxl1/musicaJP.zip",
+		  "hash": "a861f37f10a7f1d404bb37db19133e1bb9922dd2"
 		},
 		{
 		  "action": "dl",
-		  "url": "https://dl.dropboxusercontent.com/s/35r9h3wkbqajn67/musicaQZ.zip",
-		  "hash": "7d4a65fafd6e2c67b0489228719c4d4125895f70"
+		  "url": "https://dl.dropboxusercontent.com/s/vxnlmwtz5oizss8/musicaQZ.zip",
+		  "hash": "80229b97e048c47debd6fce8167cd49720eff9a2"
 		},
 		{
 		  "action": "dl",
