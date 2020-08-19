@@ -1,18 +1,17 @@
 {
-  "versions": 
-[
+  "launcher": { "version": "1.3.0"},
+  "versions": [
 	{
 	  "version": "SAO-2020-08",
-	  "full": 
-		[
-			{
-			"action": "dl",
-			"url": "https://dl.dropboxusercontent.com/s/e3yr3dau6tvir0l/personajesA.7z",
-			"hash": "74a9cb0905495102fb2a5d419e9efe943d60c97d"
-			}
-		]
+	  "full": [
+				{
+		  "action": "dl",
+		  "url": "https://dl.dropboxusercontent.com/s/e3yr3dau6tvir0l/personajesA.7z",
+		  "hash": "74a9cb0905495102fb2a5d419e9efe943d60c97d"
+		}
+	  ]
 	},
 	
 	
-]
+  ]
 }
