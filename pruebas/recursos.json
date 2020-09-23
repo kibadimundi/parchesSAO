@@ -4,6 +4,7 @@
   [
 	{
 		"version": "SAO-2020-09",
+		"prev": "SAO-2020-08",
 		"update":
 		[
 			{
