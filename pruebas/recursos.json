@@ -1,0 +1,380 @@
+{
+  "launcher": { "version": "1.3.0"},
+  "versions": 
+  [
+	{
+		"version": "SAO-2020-09",
+		"update":
+		[
+			{
+			"action": "deleteDir",
+			"target": "base/characters/Amara"
+			},
+			{
+			"action": "deleteDir",
+			"target": "base/characters/Susato"
+			},
+			{
+			"action": "deleteDir",
+			"target": "base/characters/Uzukamaru Taizo"
+			},
+			{
+			"action": "deleteDir",
+			"target": "base/characters/Gina Lestrade"
+			},
+			{
+			"action": "deleteDir",
+			"target": "base/characters/Payne Max"
+			},
+			{
+			"action": "deleteDir",
+			"target": "base/characters/Payne SOJ"
+			},
+			{
+			"action": "deleteDir",
+			"target": "base/characters/Yuujin Mikotoba Suit"
+			},
+			{
+			"action": "deleteDir",
+			"target": "base/characters/Sherlock"
+			},
+			{
+			"action": "deleteDir",
+			"target": "base/characters/Sailor"
+			},
+			{
+			"action": "deleteDir",
+			"target": "base/characters/Natsume"
+			},
+			{
+			"action": "deleteDir",
+			"target": "base/characters/PhoenixDDWit"
+			},
+			{
+			"action": "deleteDir",
+			"target": "base/characters/PhoenixSOJ"
+			},
+			{
+			"action": "deleteDir",
+			"target": "base/characters/Garan"
+			},
+			{
+			"action": "deleteDir",
+			"target": "base/characters/Barok Z"
+			},
+			{
+			"action": "deleteDir",
+			"target": "base/characters/ApolloSOJ"
+			},
+			{
+			"action": "deleteDir",
+			"target": "base/characters/ApolloDD Wit"
+			},
+			{
+			"action": "deleteDir",
+			"target": "base/characters/Juniper School"
+			},
+			{
+			"action": "deleteDir",
+			"target": "base/characters/Juniper Casual"
+			},
+			{
+			"action": "deleteDir",
+			"target": "base/characters/Ema"
+			},
+			{
+			"action": "deleteDir",
+			"target": "base/characters/Maggey"
+			},
+			{
+			"action": "deleteDir",
+			"target": "base/characters/Butz"
+			},
+			{
+			"action": "deleteDir",
+			"target": "base/characters/Oldbag"
+			},
+			{
+			"action": "deleteDir",
+			"target": "base/characters/Meekins"
+			},
+			{
+			"action": "deleteDir",
+			"target": "base/characters/Sahwit"
+			},
+			{
+			"action": "deleteDir",
+			"target": "base/characters/WillP"
+			},
+			{
+			"action": "deleteDir",
+			"target": "base/background/DGSCourtOldBaileyJury"
+			},
+			{
+			"action": "deleteDir",
+			"target": "base/background/AAICourt"
+			},
+			{
+			"action": "deleteDir",
+			"target": "base/background/Khurain"
+			},
+			{
+			"action": "move",
+			"source": "base/sounds/music/OBJECTION - 2001 (8-bit).mp3", 
+			"target": "base/sounds/music/Objection - 2001 (8-bit).mp3"
+			},
+			{
+			"action": "move",
+			"source": "base/sounds/music/OBJECTION - 2001 (Cadenza).mp3", 
+			"target": "base/sounds/music/Objection - 2001 (Cadenza).mp3"
+			},
+			{
+			"action": "move",
+			"source": "base/sounds/music/OBJECTION - 2007 (8-bit).mp3", 
+			"target": "base/sounds/music/Objection - 2007 (8-bit).mp3"
+			},
+			{
+			"action": "move",
+			"source": "base/sounds/music/OBJECTION - 2011 (8-bit).mp3",
+			"target": "base/sounds/music/Objection - 2011 (8-bit).mp3"
+			},
+			{
+			"action": "move",
+			"source": "base/sounds/music/Questioning -  Moderato (Haruhi).mp3",
+			"target": "base/sounds/music/Questioning - Moderato (Haruhi).mp3"
+			},
+			{
+			"action": "move",
+			"source": "base/sounds/music/Questioning -  Moderato (AR).mp3", 
+			"target": "base/sounds/music/Questioning - Moderato (AR).mp3"
+			},
+			{
+			"action": "move",
+			"source": "base/sounds/music/Questioning -  Candeza (2001).mp3", 
+			"target": "base/sounds/music/Questioning - Candeza (2001).mp3"
+			},
+			{
+			"action": "move",
+			"source": "base/sounds/music/Questioning -  Presto (8-bit).mp3", 
+			"target": "base/sounds/music/Questioning - Presto (8-bit).mp3"
+			},
+			{
+			"action": "move",
+			"source": "base/sounds/music/OBJECTION - 2001 (UMVC3).mp3",  
+			"target": "base/sounds/music/Objection - 2001 (UMVC3).mp3"
+			},
+			{
+			"action": "move",
+			"source": "base/sounds/music/OBJECTION - 2013 (8-bit).mp3",
+			"target": "base/sounds/music/Objection - 2013 (8-bit).mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/general/soj-pees-breakdown.wav"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/-Himno Oficial de la Comunidad Regeneracionista Española-.mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/Active Pain.mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/Crises of Fate (8-bit).mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/Crises of Fate.mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/Damon Gant ~ (Orchestra).mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/Efecto de Sonido - Rayos y Truenos.mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/Hotline of Fate.mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/IF - Big Apple.mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/Illegal of Destiny.mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/Investigation ~ Joint Reasoning (TYPE A).mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/Logic Construct.mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/OBJECTION 2 - 2015 (DGS).mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/Pursuit - 2017 Great Pursuit.mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/Questioning -  Allegro (2001).mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/Questioning -  Allegro (2004).mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/Questioning -  Allegro (2011).mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/Questioning -  Moderato (2001).mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/Questioning - Allegro (2009).mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/Trelleres -【Touhou MAD】.mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/Trelleres - 【Touhou MAD】.mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/Trifle of Fate.mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/Woolwine - Main Theme.mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/Investigation ~ Opening 2009.mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/Suspense - 2015 (Trial in Disorder).mp3"
+			},
+			{
+				"action": "dl",
+				"url": "https://dl.dropboxusercontent.com/s/wg8pxy6ikgh130j/SAO-2020-09-chars-1.zip",
+				"hash": "2e1eca21cb8aa44ec8a89b58fe81d4094f87a36a"
+			},
+			{
+				"action": "dl",
+				"url": "https://dl.dropboxusercontent.com/s/r8d1fx0pqpp2hmk/SAO-2020-09-chars-2.zip",
+				"hash": "e9ee2fbed4d502d149295d94300b5c0d601bd446"
+			},
+			{
+				"action": "dl",
+				"url": "https://dl.dropboxusercontent.com/s/1bst3axexqfl4q1/SAO-2020-09-resto.zip",
+				"hash": "1cfc09d6a2ea1e67f9eccfc55c2b3c35b4997cd4"
+			}
+		]
+	},
+	{
+		"version": "SAO-2020-08",
+		"full": 
+		[	
+			{
+				"action": "dl",
+				"url": "https://dl.dropboxusercontent.com/s/v9erjmtwr24tchv/musicaAI.zip",
+				"hash": "cf861518e4216d51c42b323ebe3f4d9c35ad049e"
+			},
+			{
+				"action": "dl",
+				"url": "https://dl.dropboxusercontent.com/s/5kv7sxrik4r9ld9/musicaJP.zip",
+				"hash": "972fb45f1a2142cb53dcb6fb65cb08e29ac4c7c2"
+			},
+			{
+				"action": "dl",
+				"url": "https://dl.dropboxusercontent.com/s/vxnlmwtz5oizss8/musicaQZ.zip",
+				"hash": "80229b97e048c47debd6fce8167cd49720eff9a2"
+			},
+			{
+				"action": "dl",
+				"url": "https://dl.dropboxusercontent.com/s/fvj0ddrrtz7a2ru/personajesA.zip",
+				"hash": "38694499ba49dd425fc0badbf222d394ddf94d3f"
+			},
+			{
+				"action": "dl",
+				"url": "https://dl.dropboxusercontent.com/s/w5c7hlg99dh43x1/personajesB.zip",
+				"hash": "74302ace9a8c884c2017e12ff0d0e0d8dca6b0cc"
+			},
+			{
+				"action": "dl",
+				"url": "https://dl.dropboxusercontent.com/s/izhnorkisw06f09/personajesC.zip",
+				"hash": "e0c01baf976d470f35ce58991610893594eccf78"
+			},
+			{
+				"action": "dl",
+				"url": "https://dl.dropboxusercontent.com/s/p75lnmku14cg90k/personajesDEF.zip",
+				"hash": "9c57a0807c6be74df63296687307578b9f100670"
+			},
+			{
+				"action": "dl",
+				"url": "https://dl.dropboxusercontent.com/s/n2xwxs6nqx27mbm/personajesGHI.zip",
+				"hash": "f75210b913388691d930232b38e6ab184b680c7e"
+			},
+			{
+				"action": "dl",
+				"url": "https://dl.dropboxusercontent.com/s/7huk6xljoo48md7/personajesJK.zip",
+				"hash": "e5755d9a5bf511753fe6af2ea5cc192074b4def9"
+			},
+			{
+				"action": "dl",
+				"url": "https://dl.dropboxusercontent.com/s/029ux4ol990ve6s/personajesLM.zip",
+				"hash": "4c3cd157a2341cd9abf7f54b998f3b204e408909"
+			},
+			
+			{
+				"action": "dl",
+				"url": "https://dl.dropboxusercontent.com/s/yhx5fnx4o1gcrl5/personajesNOP.zip",
+				"hash": "bd53b9bbf82e0bfc7ceee71020d8b053db1f0d75"
+			},
+			
+			{
+				"action": "dl",
+				"url": "https://dl.dropboxusercontent.com/s/xnnjglyca1i43bb/personajesQR.zip",
+				"hash": "30c99b16dfda9867b02ebd6e230e6f7b2dbadcb2"
+			},
+			
+			{
+				"action": "dl",
+				"url": "https://dl.dropboxusercontent.com/s/yym9maigmtabfd2/personajesST.zip",
+				"hash": "5ec5629edc423467df90192758ee5cfc4c40b9ad"
+			},
+			
+			{
+				"action": "dl",
+				"url": "https://dl.dropboxusercontent.com/s/32my91zqxhikime/personajesUVWXYZ.zip",
+				"hash": "e51af17b8a35ba51041945401ddbe67a1256e4e5"
+			},
+			
+			{
+				"action": "dl",
+				"url": "https://dl.dropboxusercontent.com/s/x0cy24gls9gp621/sonidos.zip",
+				"hash": "9376436c0982d51e935e41a330df9dfa86a837fa"
+			},
+			{
+				"action": "dl",
+				"url": "https://dl.dropboxusercontent.com/s/wai5r63qqpgi191/otros.zip",
+				"hash": "714afce53cc4c819d69f0da91c4c1ad6613eeed5"
+			}
+		]
+	}	
+  ]
+}

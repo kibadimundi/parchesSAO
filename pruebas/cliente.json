@@ -1,0 +1,47 @@
+{
+  "versions": [
+	{
+	  "version": "SAO2.8",
+	  "prev": "SAO2.6",
+	  "executable": "Attorney_Online.exe",
+	  "update": [
+		{ "action": "notice", "msg": "Esta actualización te va a borrar la configuración predeterminada. Asegúrate de poner tu nick en Settings para que siempre lo tengas puesto."},
+	    {"action": "deleteDir",
+		"target": "base/themes/default"},
+		{"action": "deleteDir",
+		"target": "base/themes/default_spanish"},
+		{"action": "deleteDir",
+		"target": "base/themes/SAO1080p"},
+		{"action": "deleteDir",
+		"target": "base/themes/SAOPortatil"},
+		{"action": "deleteDir",
+		"target": "base/themes/AceAttorney"},
+		{"action": "deleteDir",
+		"target": "base/themes/AceAttorney 2x"},
+		{
+		  "action": "dl",
+		  "url": "https://dl.dropboxusercontent.com/s/7581d3g7844uwp7/SAO2-8-5-1.zip",
+		  "hash": "70d907055595fc4be528aa292ce2d96f591c9348"
+		}
+	  ],
+		"full": [
+		{
+		  "action": "dl",
+		  "url": "https://dl.dropboxusercontent.com/s/7581d3g7844uwp7/SAO2-8-5-1.zip",
+		  "hash": "70d907055595fc4be528aa292ce2d96f591c9348"
+		}
+	   ]
+	},
+	{
+      "version": "SAO2.6",
+      "executable": "Attorney_Online.exe",
+      "full": [
+        {
+          "action": "dl",
+          "url": "https://dl.dropboxusercontent.com/s/0ym82bjnpcrz105/clientesao26.zip",
+          "hash": "04c25800240bc53359e63d13ec9eac93f1ec3261"
+        }
+      ]
+    }
+  ]
+}
