@@ -3,6 +3,342 @@
   "versions": 
   [
 	{
+		"version": "SAO-2020-10",
+		"prev": "SAO-2020-08",
+		"update":
+		[
+			{
+			"action": "deleteDir",
+			"target": "base/characters/Amara"
+			},
+			{
+			"action": "deleteDir",
+			"target": "base/characters/Susato"
+			},
+			{
+			"action": "deleteDir",
+			"target": "base/characters/Uzukamaru Taizo"
+			},
+			{
+			"action": "deleteDir",
+			"target": "base/characters/Gina Lestrade"
+			},
+			{
+			"action": "deleteDir",
+			"target": "base/characters/Payne Max"
+			},
+			{
+			"action": "deleteDir",
+			"target": "base/characters/Payne SOJ"
+			},
+			{
+			"action": "deleteDir",
+			"target": "base/characters/Yuujin Mikotoba Suit"
+			},
+			{
+			"action": "deleteDir",
+			"target": "base/characters/Sherlock"
+			},
+			{
+			"action": "deleteDir",
+			"target": "base/characters/Sailor"
+			},
+			{
+			"action": "deleteDir",
+			"target": "base/characters/Natsume"
+			},
+			{
+			"action": "deleteDir",
+			"target": "base/characters/PhoenixDDWit"
+			},
+			{
+			"action": "deleteDir",
+			"target": "base/characters/PhoenixSOJ"
+			},
+			{
+			"action": "deleteDir",
+			"target": "base/characters/Garan"
+			},
+			{
+			"action": "deleteDir",
+			"target": "base/characters/Barok Z"
+			},
+			{
+			"action": "deleteDir",
+			"target": "base/characters/ApolloSOJ"
+			},
+			{
+			"action": "deleteDir",
+			"target": "base/characters/ApolloDD Wit"
+			},
+			{
+			"action": "deleteDir",
+			"target": "base/characters/Juniper School"
+			},
+			{
+			"action": "deleteDir",
+			"target": "base/characters/Juniper Casual"
+			},
+			{
+			"action": "deleteDir",
+			"target": "base/characters/Ema"
+			},
+			{
+			"action": "deleteDir",
+			"target": "base/characters/Maggey"
+			},
+			{
+			"action": "deleteDir",
+			"target": "base/characters/Butz"
+			},
+			{
+			"action": "deleteDir",
+			"target": "base/characters/Oldbag"
+			},
+			{
+			"action": "deleteDir",
+			"target": "base/characters/Meekins"
+			},
+			{
+			"action": "deleteDir",
+			"target": "base/characters/Sahwit"
+			},
+			{
+			"action": "deleteDir",
+			"target": "base/characters/WillP"
+			},
+			{
+			"action": "deleteDir",
+			"target": "base/characters/Megundal"
+			},
+			{
+			"action": "deleteDir",
+			"target": "base/background/DGSCourtOldBaileyJury"
+			},
+			{
+			"action": "deleteDir",
+			"target": "base/background/AAICourt"
+			},
+			{
+			"action": "deleteDir",
+			"target": "base/background/Khurain"
+			},
+			{
+			"action": "move",
+			"source": "base/sounds/music/OBJECTION - 2001 (8-bit).mp3", 
+			"target": "base/sounds/music/Objection - 2001 (8-bit).mp3"
+			},
+			{
+			"action": "move",
+			"source": "base/sounds/music/OBJECTION - 2001 (Cadenza).mp3", 
+			"target": "base/sounds/music/Objection - 2001 (Cadenza).mp3"
+			},
+			{
+			"action": "move",
+			"source": "base/sounds/music/OBJECTION - 2007 (8-bit).mp3", 
+			"target": "base/sounds/music/Objection - 2007 (8-bit).mp3"
+			},
+			{
+			"action": "move",
+			"source": "base/sounds/music/OBJECTION - 2011 (8-bit).mp3",
+			"target": "base/sounds/music/Objection - 2011 (8-bit).mp3"
+			},
+			{
+			"action": "move",
+			"source": "base/sounds/music/Questioning -  Moderato (Haruhi).mp3",
+			"target": "base/sounds/music/Questioning - Moderato (Haruhi).mp3"
+			},
+			{
+			"action": "move",
+			"source": "base/sounds/music/Questioning -  Moderato (AR).mp3", 
+			"target": "base/sounds/music/Questioning - Moderato (AR).mp3"
+			},
+			{
+			"action": "move",
+			"source": "base/sounds/music/Questioning -  Candeza (2001).mp3", 
+			"target": "base/sounds/music/Questioning - Candeza (2001).mp3"
+			},
+			{
+			"action": "move",
+			"source": "base/sounds/music/Questioning -  Presto (8-bit).mp3", 
+			"target": "base/sounds/music/Questioning - Presto (8-bit).mp3"
+			},
+			{
+			"action": "move",
+			"source": "base/sounds/music/OBJECTION - 2001 (UMVC3).mp3",  
+			"target": "base/sounds/music/Objection - 2001 (UMVC3).mp3"
+			},
+			{
+			"action": "move",
+			"source": "base/sounds/music/OBJECTION - 2013 (8-bit).mp3",
+			"target": "base/sounds/music/Objection - 2013 (8-bit).mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/general/soj-pees-breakdown.wav"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/-Himno Oficial de la Comunidad Regeneracionista Española-.mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/Active Pain.mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/Crises of Fate (8-bit).mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/Crises of Fate.mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/Damon Gant ~ (Orchestra).mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/Efecto de Sonido - Rayos y Truenos.mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/Hotline of Fate.mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/IF - Big Apple.mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/Illegal of Destiny.mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/Investigation ~ Joint Reasoning (TYPE A).mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/Logic Construct.mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/OBJECTION 2 - 2015 (DGS).mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/Pursuit - 2017 Great Pursuit.mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/Questioning -  Allegro (2001).mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/Questioning -  Allegro (2004).mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/Questioning -  Allegro (2011).mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/Questioning -  Moderato (2001).mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/Questioning - Allegro (2009).mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/Trelleres -【Touhou MAD】.mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/Trelleres - 【Touhou MAD】.mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/Trifle of Fate.mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/Woolwine - Main Theme.mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/Investigation ~ Opening 2009.mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/Suspense - 2015 (Trial in Disorder).mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/Closing Argument.mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/Reasoning War ~ Middle.mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/Reasoning War ~ Opening.mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/Joint Reasoning (TYPE A).mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/Joint Reasoning (TYPE B).mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/Joint Reasoning (TYPE C).mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/DGS - Ending.mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/DGS - The Witnesses Enter.mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/DGS - Verdict.mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/DGS - Veredict.ogg"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/Deduction ~ Beyond Reasoning.mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/IF - Don't Stop Me Now.mp3"
+			},
+			{
+				"action": "dl",
+				"url": "https://dl.dropboxusercontent.com/s/8bx2a219hn8vols/SAO-2020-10-chars1.zip",
+				"hash": "dc293ba2fea323b907ffdaf64eb16b966c6ce95b"
+			},
+			{
+				"action": "dl",
+				"url": "https://dl.dropboxusercontent.com/s/gxqojap66au35my/SAO-2020-10-chars2.zip",
+				"hash": "8d2670ce48037b01dae1b4d5f41b74fb67e69c80"
+			},
+			{
+				"action": "dl",
+				"url": "https://dl.dropboxusercontent.com/s/dadob0udcn3cr8y/SAO-2020-10-otros.zip",
+				"hash": "a13734164c7d84144fa7b23c90136ffe3de6775d"
+			}
+		]
+	},
+	{
 		"version": "SAO-2020-08",
 		"full": 
 		[	
