@@ -3,7 +3,7 @@
   "versions": 
   [
 	{
-		"version": "SAO-2020-09",
+		"version": "SAO-2020-10",
 		"prev": "SAO-2020-08",
 		"update":
 		[
@@ -106,6 +106,10 @@
 			{
 			"action": "deleteDir",
 			"target": "base/characters/WillP"
+			},
+			{
+			"action": "deleteDir",
+			"target": "base/characters/Megundal"
 			},
 			{
 			"action": "deleteDir",
@@ -270,19 +274,67 @@
 			"target": "base/sounds/music/Suspense - 2015 (Trial in Disorder).mp3"
 			},
 			{
-				"action": "dl",
-				"url": "https://dl.dropboxusercontent.com/s/wg8pxy6ikgh130j/SAO-2020-09-chars-1.zip",
-				"hash": "2e1eca21cb8aa44ec8a89b58fe81d4094f87a36a"
+			"action": "delete",
+			"target": "base/sounds/music/Closing Argument.mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/Reasoning War ~ Middle.mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/Reasoning War ~ Opening.mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/Joint Reasoning (TYPE A).mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/Joint Reasoning (TYPE B).mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/Joint Reasoning (TYPE C).mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/DGS - Ending.mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/DGS - The Witnesses Enter.mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/DGS - Verdict.mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/DGS - Veredict.ogg"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/Deduction ~ Beyond Reasoning.mp3"
+			},
+			{
+			"action": "delete",
+			"target": "base/sounds/music/IF - Don't Stop Me Now.mp3"
 			},
 			{
 				"action": "dl",
-				"url": "https://dl.dropboxusercontent.com/s/r8d1fx0pqpp2hmk/SAO-2020-09-chars-2.zip",
-				"hash": "e9ee2fbed4d502d149295d94300b5c0d601bd446"
+				"url": "https://dl.dropboxusercontent.com/s/8bx2a219hn8vols/SAO-2020-10-chars1.zip",
+				"hash": "dc293ba2fea323b907ffdaf64eb16b966c6ce95b"
 			},
 			{
 				"action": "dl",
-				"url": "https://dl.dropboxusercontent.com/s/1bst3axexqfl4q1/SAO-2020-09-resto.zip",
-				"hash": "1cfc09d6a2ea1e67f9eccfc55c2b3c35b4997cd4"
+				"url": "https://dl.dropboxusercontent.com/s/gxqojap66au35my/SAO-2020-10-chars2.zip",
+				"hash": "8d2670ce48037b01dae1b4d5f41b74fb67e69c80"
+			},
+			{
+				"action": "dl",
+				"url": "https://dl.dropboxusercontent.com/s/dadob0udcn3cr8y/SAO-2020-10-otros.zip",
+				"hash": "a13734164c7d84144fa7b23c90136ffe3de6775d"
 			}
 		]
 	},
