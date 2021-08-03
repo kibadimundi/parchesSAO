@@ -3,6 +3,38 @@
   "versions": 
   [
 	  {
+		"version": "SAO-2021-08-fix",
+		"prev": "SAO-2021-08",
+		"update":
+		[		
+			{
+			"action": "move",
+			"source": "base/sounds/music/Larry Butz -2004 (When Something Smells, It's Usually Me).opus", 
+			"target": "base/sounds/music/Larry Butz - 2004 (When Something Smells, It's Usually Me).opus"
+			},
+			{
+			"action": "move",
+			"source": "base/sounds/music/Larry Butz -2004 (When Something Smells, It's Usually Me).opus.txt", 
+			"target": "base/sounds/music/Larry Butz - 2004 (When Something Smells, It's Usually Me).opus.txt"
+			},
+			{
+			"action": "move",
+			"source": "base/sounds/music/TrÃ©s Bien.opus", 
+			"target": "base/sounds/music/Tres Bien.opus"
+			},
+			{
+			"action": "move",
+			"source": "base/sounds/music/TrÃ©s Bien.opus.txt", 
+			"target": "base/sounds/music/Tres Bien.opus.txt"
+			},
+			{
+			"action": "move",
+			"source": "base/sounds/music/Parar MÃºsica.opus", 
+			"target": "base/sounds/music/Parar Musica.opus"
+			}
+		]
+	  },
+	  {
 		"version": "SAO-2021-08",
 		"prev": "SAO-2020-10",
 		"update":
