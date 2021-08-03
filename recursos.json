@@ -2,6 +2,87 @@
   "launcher": { "version": "1.3.0"},
   "versions": 
   [
+	  {
+		"version": "SAO-2021-08",
+		"prev": "SAO-2020-10",
+		"update":
+		[
+			{
+				"action": "deleteDir",
+				"target": "base/sounds/music"
+			},
+			{
+				"action": "dl",
+				"url": "https://dl.dropboxusercontent.com/s/ha8nc5viilsf51a/L2001.zip",
+				"hash": "C081535D9C1613E8A3C330C22271301FCF30BAB2"
+			},
+			{
+				"action": "dl",
+				"url": "https://dl.dropboxusercontent.com/s/cz0r06s2racyrz2/L2002.zip",
+				"hash": "D7950FBA936E5D64FCA233D4D22DA5869835E53D"
+			},
+			{
+				"action": "dl",
+				"url": "https://dl.dropboxusercontent.com/s/jdtvp45pwzlvnus/L2004.zip",
+				"hash": "6AD91CEFA912BB418D55ACA32C4F0C4F88A90F46"
+			},
+			{
+				"action": "dl",
+				"url": "https://dl.dropboxusercontent.com/s/tuzlierviea4ybf/L2007.zip",
+				"hash": "2DD3044619F79EC2F8E3C92605A578D8B23BE0F0"
+			},
+			{
+				"action": "dl",
+				"url": "https://dl.dropboxusercontent.com/s/fb6g3x6k5nnomf6/L2009.zip",
+				"hash": "4D4F3D33B112A139650DB01A0271D55910FB13FD"
+			},
+			{
+				"action": "dl",
+				"url": "https://dl.dropboxusercontent.com/s/q6vprtewwxangg4/L2011.zip",
+				"hash": "C46C68BDA24C16529CFACC4930F09E49B03C2D1B"
+			},
+			{
+				"action": "dl",
+				"url": "https://dl.dropboxusercontent.com/s/4s5iko564s19qya/L2012.zip",
+				"hash": "CEE65C4206DC991FFD8D0A013A136F66A4383D2A"
+			},
+			{
+				"action": "dl",
+				"url": "https://dl.dropboxusercontent.com/s/cb7qsbumthxvicb/L2013.zip",
+				"hash": "91B497981B8743A743A5ABEDBA088F100A5BDE17"
+			},
+			{
+				"action": "dl",
+				"url": "https://dl.dropboxusercontent.com/s/vswpo4nanc8n093/L2015.zip",
+				"hash": "8B62D24CF41EBF659D3E84107EC5B416544995B6"
+			},
+			{
+				"action": "dl",
+				"url": "https://dl.dropboxusercontent.com/s/78t4n4a47vbc9qq/L2016.zip",
+				"hash": "DAA9E7B836541C7E5BABDE2E60975472B20FDE01"
+			},
+			{
+				"action": "dl",
+				"url": "https://dl.dropboxusercontent.com/s/0tl4t73apjvkvaz/L2017.zip",
+				"hash": "6A9E75285BA4C8FC0FDBFAFD8F77118C3890014F"
+			},
+			{
+				"action": "dl",
+				"url": "https://dl.dropboxusercontent.com/s/wpu7wnkhedsj5p2/LOtros.zip",
+				"hash": "38875CBF7F890F731BB9D4A1F9EA4A9185038C5C"
+			},
+			{
+				"action": "dl",
+				"url": "https://dl.dropboxusercontent.com/s/8jpcg35d14in3c8/LUser.zip",
+				"hash": "D10921ED2326F1624FCC864D8E259B0B71282A61"
+			},
+			{
+				"action": "dl",
+				"url": "https://dl.dropboxusercontent.com/s/hpzju14eeecj57n/Pend.zip",
+				"hash": "2335107CE21A1024EC9645C1B3D956B4CB0F3E74"
+			}
+		]
+	}
 	{
 		"version": "SAO-2020-10",
 		"prev": "SAO-2020-08",
