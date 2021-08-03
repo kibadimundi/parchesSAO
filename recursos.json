@@ -2,70 +2,7 @@
   "launcher": { "version": "1.3.0"},
   "versions": 
   [
-	  {
-		"version": "SAO-2021-08-fix2",
-		"prev": "SAO-2021-08-fix",
-		"update":
-		[		
-			{
-			"action": "delete",
-			"target": "base/sounds/music/Larry Butz -2004 (When Something Smells, It's Usually Me).opus"
-			},
-			{
-			"action": "delete",
-			"target": "base/sounds/music/Larry Butz -2004 (When Something Smells, It's Usually Me).opus.txt"
-			},
-			{
-			"action": "delete",
-			"target": "base/sounds/music/TrÃ©s Bien.opus"
-			},
-			{
-			"action": "move",
-			"target": "base/sounds/music/TrÃ©s Bien.opus.txt" 
-			},
-			{
-			"action": "move",
-			"target": "base/sounds/music/Parar MÃºsica.opus"
-			},
-			{
-				"action": "dl",
-				"url": "https://dl.dropboxusercontent.com/s/c3npjc7em1czzbh/Fix2021-08.zip",
-				"hash": "5471507932c30eef27ad6916ee2faeab779c6c51"
-			}
-		]
-	  },
-	  {
-		"version": "SAO-2021-08-fix",
-		"prev": "SAO-2021-08",
-		"update":
-		[		
-			{
-			"action": "move",
-			"source": "base/sounds/music/Larry Butz -2004 (When Something Smells, It's Usually Me).opus", 
-			"target": "base/sounds/music/Larry Butz - 2004 (When Something Smells, It's Usually Me).opus"
-			},
-			{
-			"action": "move",
-			"source": "base/sounds/music/Larry Butz -2004 (When Something Smells, It's Usually Me).opus.txt", 
-			"target": "base/sounds/music/Larry Butz - 2004 (When Something Smells, It's Usually Me).opus.txt"
-			},
-			{
-			"action": "move",
-			"source": "base/sounds/music/TrÃ©s Bien.opus", 
-			"target": "base/sounds/music/Tres Bien.opus"
-			},
-			{
-			"action": "move",
-			"source": "base/sounds/music/TrÃ©s Bien.opus.txt", 
-			"target": "base/sounds/music/Tres Bien.opus.txt"
-			},
-			{
-			"action": "move",
-			"source": "base/sounds/music/Parar MÃºsica.opus", 
-			"target": "base/sounds/music/Parar Musica.opus"
-			}
-		]
-	  },
+	  
 	  {
 		"version": "SAO-2021-08",
 		"prev": "SAO-2020-10",
@@ -91,8 +28,8 @@
 			},
 			{
 				"action": "dl",
-				"url": "https://dl.dropboxusercontent.com/s/uve3sfxhvwv1k1h/L2004.zip",
-				"hash": "fdca91f28eb8294757a2900e4fe88b762ac76169"
+				"url": "https://dl.dropboxusercontent.com/s/u2rke15dzv1nzl8/L2004.zip",
+				"hash": "24d473e1e4fb2aa9556b7aff055410a0d5c4f995"
 			},
 			{
 				"action": "dl",
@@ -136,8 +73,8 @@
 			},
 			{
 				"action": "dl",
-				"url": "https://dl.dropboxusercontent.com/s/9chpixhoqab1lf5/LOtros.zip",
-				"hash": "199a1f8554bab6488d966e211d1c7e1535762aff"
+				"url": "https://dl.dropboxusercontent.com/s/ekmshwwl4s81fqq/LOtros.zip",
+				"hash": "27017d65ce4827132f7c5461c57789b6652f39e7"
 			},
 			{
 				"action": "dl",
