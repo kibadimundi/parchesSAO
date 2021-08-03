@@ -21,7 +21,8 @@
 			"action": "move",
 			"source": "base/sounds/music/Trï¿½s Bien.txt", 
 			"target": "base/sounds/music/Trés Bien.txt"
-			},
+			}
+		]
 	  },
 	  {
 		"version": "SAO-2021-08",
