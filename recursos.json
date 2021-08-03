@@ -6,7 +6,11 @@
 		"version": "SAO-2021-08",
 		"prev": "SAO-2020-10",
 		"update":
-		[
+		[		
+			{
+				"action": "notice",
+				"msg": "Esta actualización te va a borrar la carpeta de musica custom. Deberias hacer una copia de seguridad antes de aplicarlo."
+			},
 			{
 				"action": "deleteDir",
 				"target": "base/sounds/music"
