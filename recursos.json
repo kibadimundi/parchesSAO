@@ -3,6 +3,27 @@
   "versions": 
   [
 	  {
+		"version": "SAO-2021-08-fix",
+		"prev": "SAO-2021-08",
+		"update":
+		  [		
+			{
+			"action": "move",
+			"source": "base/sounds/music/Parar Mï¿½sica.opus", 
+			"target": "base/sounds/music/Parar Música.opus"
+			},
+			{
+			"action": "move",
+			"source": "base/sounds/music/Trï¿½s Bien.opus", 
+			"target": "base/sounds/music/Trés Bien.opus"
+			},
+			{
+			"action": "move",
+			"source": "base/sounds/music/Trï¿½s Bien.txt", 
+			"target": "base/sounds/music/Trés Bien.txt"
+			},
+	  },
+	  {
 		"version": "SAO-2021-08",
 		"prev": "SAO-2020-10",
 		"update":
