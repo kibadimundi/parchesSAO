@@ -3,28 +3,6 @@
   "versions": 
   [
 	  {
-		"version": "SAO-2021-08-fix",
-		"prev": "SAO-2021-08",
-		"update":
-		  [		
-			{
-			"action": "move",
-			"source": "base/sounds/music/Parar Mï¿½sica.opus", 
-			"target": "base/sounds/music/Parar Música.opus"
-			},
-			{
-			"action": "move",
-			"source": "base/sounds/music/Trï¿½s Bien.opus", 
-			"target": "base/sounds/music/Trés Bien.opus"
-			},
-			{
-			"action": "move",
-			"source": "base/sounds/music/Trï¿½s Bien.txt", 
-			"target": "base/sounds/music/Trés Bien.txt"
-			}
-		]
-	  },
-	  {
 		"version": "SAO-2021-08",
 		"prev": "SAO-2020-10",
 		"update":
@@ -49,8 +27,8 @@
 			},
 			{
 				"action": "dl",
-				"url": "https://dl.dropboxusercontent.com/s/jdtvp45pwzlvnus/L2004.zip",
-				"hash": "6ad91cefa912bb418d55aca32c4f0c4f88a90f46"
+				"url": "https://dl.dropboxusercontent.com/s/uve3sfxhvwv1k1h/L2004.zip",
+				"hash": "fdca91f28eb8294757a2900e4fe88b762ac76169"
 			},
 			{
 				"action": "dl",
@@ -94,8 +72,8 @@
 			},
 			{
 				"action": "dl",
-				"url": "https://dl.dropboxusercontent.com/s/wpu7wnkhedsj5p2/LOtros.zip",
-				"hash": "38875cbf7f890f731bb9d4a1f9ea4a9185038c5c"
+				"url": "https://dl.dropboxusercontent.com/s/9chpixhoqab1lf5/LOtros.zip",
+				"hash": "199a1f8554bab6488d966e211d1c7e1535762aff"
 			},
 			{
 				"action": "dl",
