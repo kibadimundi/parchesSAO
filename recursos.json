@@ -21,11 +21,11 @@
 			},
 			{
 			"action": "move",
-			"target": "base/sounds/music/TrÃ©s Bien.opus.txt", 
+			"target": "base/sounds/music/TrÃ©s Bien.opus.txt" 
 			},
 			{
 			"action": "move",
-			"target": "base/sounds/music/Parar MÃºsica.opus", 
+			"target": "base/sounds/music/Parar MÃºsica.opus"
 			},
 			{
 				"action": "dl",
