@@ -1,20 +1,6 @@
 {
   "versions": [
 	{
-		
-	  "version": "SAO2.9",
-	  "prev": "SAO2.8",
-	  "executable": "Attorney_Online.exe",
-	  "update": [
-		  {
-		  "action": "dl",
-		  "url": "https://bayfiles.com/V841Mageyb/SAO2-8-5-1.zip",
-		  "hash": "a5421c998878128d37657f43a1d09a16764da8db"
-		  }
-		 ]
-		  
-	}, 
-	{
 	  "version": "SAO2.8",
 	  "prev": "SAO2.6",
 	  "executable": "Attorney_Online.exe",
@@ -34,7 +20,7 @@
 		"target": "base/themes/AceAttorney 2x"},
 		{
 		  "action": "dl",
-		  "url": "https://dl.dropboxusercontent.com/s/s1nz2okhj0eha5c/SAO2-8-5-1.zip",
+		  "url": "http://kibadimundi.ddns.net:8899/SAO2-8-5-1.zip",
 		  "hash": "a5421c998878128d37657f43a1d09a16764da8db"
 		}
 	  ]
