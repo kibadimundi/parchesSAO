@@ -20,7 +20,7 @@
 		"target": "base/themes/AceAttorney 2x"},
 		{
 		  "action": "dl",
-		  "url": "http://kibadimundi.ddns.net:8899/SAO2-8-5-1.zip",
+		  "url": "http://saohost.ddns.net/clients/SAO2-8-5-1.zip",
 		  "hash": "a5421c998878128d37657f43a1d09a16764da8db"
 		}
 	  ]
@@ -31,7 +31,7 @@
       "full": [
         {
           "action": "dl",
-          "url": "https://dl.dropboxusercontent.com/s/0ym82bjnpcrz105/clientesao26.zip",
+          "url": "http://saohost.ddns.net/clients/clientesao26.zip",
           "hash": "04c25800240bc53359e63d13ec9eac93f1ec3261"
         }
       ]
