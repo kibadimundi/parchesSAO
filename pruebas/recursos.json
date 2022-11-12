@@ -2,6 +2,165 @@
   "launcher": { "version": "1.3.0"},
   "versions": 
   [
+  {
+		"version": "SAO-2022-10",
+		"prev": "SAO-2021-08",
+		"update":
+		[
+			{
+				"action": "deleteDir",
+				"target": "base/characters/Bobby"
+			},
+			{
+				"action": "deleteDir",
+				"target": "base/characters/Beat"
+			},
+			{
+				"action": "deleteDir",
+				"target": "base/characters/Joshua"
+			},
+			{
+				"action": "deleteDir",
+				"target": "base/characters/Mr. H"
+			},
+			{
+				"action": "deleteDir",
+				"target": "base/characters/Neku"
+			},
+			{
+				"action": "deleteDir",
+				"target": "base/characters/Shiki"
+			},
+			{
+				"action": "deleteDir",
+				"target": "base/characters/Sho"
+			},
+			{
+				"action": "deleteDir",
+				"target": "base/characters/Kazuma"
+			},
+			{
+				"action": "deleteDir",
+				"target": "base/characters/Polly"
+			},
+			{
+				"action": "deleteDir",
+				"target": "base/characters/EmaSOJ"
+			},
+			{
+				"action": "deleteDir",
+				"target": "base/characters/Mamemomi"
+			},
+			{
+				"action": "deleteDir",
+				"target": "base/characters/JudgeDGS-ENG"
+			},
+			{
+				"action": "deleteDir",
+				"target": "base/characters/Juniper"
+			},
+			{
+				"action": "deleteDir",
+				"target": "base/characters/Tobias Gregson"
+			},
+			{
+				"action": "deleteDir",
+				"target": "base/characters/Barok Z"
+			},
+			{
+				"action": "deleteDir",
+				"target": "base/characters/Barok Wit"
+			},
+			{
+				"action": "deleteDir",
+				"target": "base/characters/Kazuma DGS2"
+			},
+			{
+				"action": "deleteDir",
+				"target": "base/characters/Paul Atinshon"
+			},
+			{
+				"action": "deleteDir",
+				"target": "base/characters/Sasha"
+			},
+			{
+				"action": "deleteDir",
+				"target": "base/characters/Drebber"
+			},
+			{
+				"action": "deleteDir",
+				"target": "base/characters/MilesSOJ"
+			},
+			{
+				"action": "deleteDir",
+				"target": "base/characters/Gina Lestrade DGS2"
+			},
+			{
+				"action": "deleteDir",
+				"target": "base/characters/Jean"
+			},
+			{
+				"action": "deleteDir",
+				"target": "base/characters/Goulloyne"
+			},
+			{
+				"action": "deleteDir",
+				"target": "base/characters/Ridelle"
+			},
+			{
+				"action": "deleteDir",
+				"target": "base/characters/Rozaic"
+			},
+			{
+				"action": "deleteDir",
+				"target": "base/characters/Ryuutarou"
+			},
+			{
+				"action": "deleteDir",
+				"target": "base/characters/Adam Ladyfirst"
+			},
+			{
+				"action": "deleteDir",
+				"target": "base/characters/Dmitri"
+			},
+			{
+				"action": "deleteDir",
+				"target": "base/characters/Everyday"
+			},
+			{
+				"action": "deleteDir",
+				"target": "base/characters/John Garrideb"
+			},
+			{
+				"action": "deleteDir",
+				"target": "base/characters/PearlSOJ"
+			},
+			{
+				"action": "deleteDir",
+				"target": "base/characters/Shiv"
+			},
+			{
+				"action": "deleteDir",
+				"target": "base/characters/Sithe"
+			},
+			{
+				"action": "deleteDir",
+				"target": "base/characters/Venus"
+			},
+			{
+				"action": "deleteDir",
+				"target": "base/characters/Trucy SOJ"
+			},
+                        {
+				"action": "deleteDir",
+				"target": "base/characters/Apollo"
+			},
+                        {
+				"action": "deleteDir",
+				"target": "base/characters/Rayfa"
+			}
+		]
+	},
 	{
 		"version": "SAO-2021-08",
 		"prev": "SAO-2020-10",
