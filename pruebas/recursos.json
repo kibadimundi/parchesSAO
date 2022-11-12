@@ -158,6 +158,31 @@
                         {
 				"action": "deleteDir",
 				"target": "base/characters/Rayfa"
+			},
+			{
+				"action": "dl",
+				"url": "http://saohost.ddns.net/SAO_2022_11/SAO-2022-11-chars1.zip",
+				"hash": "dc924c108a0a211c04995ae30206dc874d4336aa"
+			},
+			{
+				"action": "dl",
+				"url": "http://saohost2.ddns.net/SAO_2022_11/SAO-2022-11-chars2.zip",
+				"hash": "3f698a1db941330526e6c156ee664e7481dfb34b"
+			},
+			{
+				"action": "dl",
+				"url": "http://saohost.ddns.net/SAO_2022_11/SAO-2022-11-chars3.zip",
+				"hash": "7eb5d97fb7116b0ea8c0be7fd49a4bd099c94409"
+			},
+			{
+				"action": "dl",
+				"url": "http://saohost2.ddns.net/SAO_2022_11/SAO-2022-11-chars4.zip",
+				"hash": "4a2b1e4b125eb8337184550908a8cf84ddb86789"
+			},
+			{
+				"action": "dl",
+				"url": "http://saohost.ddns.net/SAO_2022_11/SAO-2022-11-otros.zip",
+				"hash": "af5337ed77c8cf35827f21c2d9ed3be9d77d0c14"
 			}
 		]
 	},
