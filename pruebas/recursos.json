@@ -184,6 +184,69 @@
 				"url": "http://saohost.ddns.net/SAO_2022_11/SAO-2022-11-otros.zip",
 				"hash": "af5337ed77c8cf35827f21c2d9ed3be9d77d0c14"
 			}
+		],
+	  	"full":
+	  	[
+			{
+				"action": "dl",
+				"url": "http://saohost.ddns.net/SAO_2022_11/full/SAO-2022-11-characters-1.zip",
+				"hash": "d8bae4829e8c7d2fb43c88035e09a1492fd8b8c1"
+			},
+			{
+				"action": "dl",
+				"url": "http://saohost2.ddns.net/SAO_2022_11/full/SAO-2022-11-characters-2.zip",
+				"hash": "8575c0a880049ad5cc43ab62c32dd4aca6815c2c"
+			},
+			{
+				"action": "dl",
+				"url": "http://saohost.ddns.net/SAO_2022_11/full/SAO-2022-11-characters-3.zip",
+				"hash": "fed0de74058b09d21161bc028390739c8b9f1a34"
+			},
+			{
+				"action": "dl",
+				"url": "http://saohost2.ddns.net/SAO_2022_11/full/SAO-2022-11-characters-4.zip",
+				"hash": "e311c03c52f04416c3d1b73bdaf4ae7d5c649f75"
+			},
+			{
+				"action": "dl",
+				"url": "http://saohost.ddns.net/SAO_2022_11/full/SAO-2022-11-characters-5.zip",
+				"hash": "a2b7d1f73806bf308057d97429bfa12495535c04"
+			},
+			{
+				"action": "dl",
+				"url": "http://saohost2.ddns.net/SAO_2022_11/full/SAO-2022-11-characters-6.zip",
+				"hash": "fb54a2d47798d49bbcf92525b2f5529346a4f244"
+			},
+			{
+				"action": "dl",
+				"url": "http://saohost.ddns.net/SAO_2022_11/full/SAO-2022-11-characters-7.zip",
+				"hash": "108f4a18cc142a318b22bc7a9bb1a5a75fa6e35a"
+			},
+			{
+				"action": "dl",
+				"url": "http://saohost2.ddns.net/SAO_2022_11/full/SAO-2022-11-characters-8.zip",
+				"hash": "20c234dad85ff45e73cd22ec2d3e7d6c0fffa29b"
+			},
+			{
+				"action": "dl",
+				"url": "http://saohost.ddns.net/SAO_2022_11/full/SAO-2022-11-characters-9.zip",
+				"hash": "65e03121d50aec06c52ba97dc9c5ec7c7198a848"
+			},
+			{
+				"action": "dl",
+				"url": "http://saohost2.ddns.net/SAO_2022_11/full/SAO-2022-11-music-1.zip",
+				"hash": "1540953754c57eb3fa0c22d3b54b46b722a141d7"
+			},
+			{
+				"action": "dl",
+				"url": "http://saohost.ddns.net/SAO_2022_11/full/SAO-2022-11-music-2.zip",
+				"hash": "1504a990c74e766aa5ecf56842c76422d2d89aa3"
+			},
+			{
+				"action": "dl",
+				"url": "http://saohost2.ddns.net/SAO_2022_11/full/SAO-2022-11-otros.zip",
+				"hash": "cec7c1dcce54dcc509f74b7992854b8d0d8a106f"
+			}
 		]
 	},
 	{
