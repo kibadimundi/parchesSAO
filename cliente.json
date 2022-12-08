@@ -1,5 +1,68 @@
 {
+  "launcher": { "version": "1.3.0"},
   "versions": [
+	{
+		"version": "SAO2.10",
+	  	"prev": "SAO2.8",
+		"executable": "Attorney_Online.exe",
+		"update": [
+			  {"action": "deleteDir",
+				"target": "base/themes/default"},
+			  {"action": "deleteDir",
+				"target": "base/themes/SAO1080p"},
+			    {"action": "deleteDir",
+				"target": "base/themes/SAOPortatil"},
+			  {"action": "delete",
+				"target": "Attorney_Online"},
+			{"action": "delete",
+				"target": "Attorney_Online.exe"},
+			{"action": "delete",
+				"target": "Attorney_Online_2.6.2_macOS_x64.zip"},
+			{"action": "delete",
+				"target": "Attorney_Online_2.8.5.1_macOS.zip"},
+			{"action": "delete",
+				"target": "bass.dll"},
+			{"action": "delete",
+				"target": "bassopus.dll"},
+			{"action": "delete",
+				"target": "discord-rpc.dll"},
+			{"action": "delete",
+				"target": "libbass.so"},
+			{"action": "delete",
+				"target": "LEEME.txt"},
+			{"action": "delete",
+				"target": "libbassopus.so"},
+			{"action": "delete",
+				"target": "libdiscord-rpc.so"},
+			{"action": "delete",
+				"target": "libqapng.so"},
+			{"action": "delete",
+				"target": "LICENSE"},
+			{"action": "delete",
+				"target": "LICENSE.MIT.txt"},
+			{"action": "delete",
+				"target": "LICENSE.txt"},
+			{"action": "delete",
+				"target": "README.md.txt"},
+			{"action": "delete",
+				"target": "run.sh"},
+			{"action": "delete",
+				"target": "README.md.txt"},
+			{
+			  "action": "dl",
+			  "url": "http://saohost.ddns.net/clients/SAO2-10.zip",
+			  "hash": "b76abd8c75bf9537119b1011e4d2a209b0daaeb9"
+			}
+			],
+		"full":[
+			{
+			  "action": "dl",
+			  "url": "http://saohost.ddns.net/clients/SAO2-10.zip",
+			  "hash": "b76abd8c75bf9537119b1011e4d2a209b0daaeb9"
+			}
+			]
+
+	},
 	{
 	  "version": "SAO2.8",
 	  "prev": "SAO2.6",
@@ -20,7 +83,7 @@
 		"target": "base/themes/AceAttorney 2x"},
 		{
 		  "action": "dl",
-		  "url": "https://dl.dropboxusercontent.com/s/s1nz2okhj0eha5c/SAO2-8-5-1.zip",
+		  "url": "http://saohost.ddns.net/clients/SAO2-8-5-1.zip",
 		  "hash": "a5421c998878128d37657f43a1d09a16764da8db"
 		}
 	  ]
@@ -31,7 +94,7 @@
       "full": [
         {
           "action": "dl",
-          "url": "https://dl.dropboxusercontent.com/s/0ym82bjnpcrz105/clientesao26.zip",
+          "url": "http://saohost.ddns.net/clients/clientesao26.zip",
           "hash": "04c25800240bc53359e63d13ec9eac93f1ec3261"
         }
       ]
