@@ -50,14 +50,14 @@
 				"target": "README.md.txt"},
 			{
 			  "action": "dl",
-			  "url": "http://saohost2.ddns.net/clients/SAO2-10.zip",
+			  "url": "http://saorpi.ddns.net:8899/clients/SAO2-10.zip",
 			  "hash": "b76abd8c75bf9537119b1011e4d2a209b0daaeb9"
 			}
 			],
 		"full":[
 			{
 			  "action": "dl",
-			  "url": "http://saohost2.ddns.net/clients/SAO2-10.zip",
+			  "url": "http://saorpi.ddns.net:8899/clients/SAO2-10.zip",
 			  "hash": "b76abd8c75bf9537119b1011e4d2a209b0daaeb9"
 			}
 			]
@@ -83,7 +83,7 @@
 		"target": "base/themes/AceAttorney 2x"},
 		{
 		  "action": "dl",
-		  "url": "http://saohost2.ddns.net/clients/SAO2-8-5-1.zip",
+		  "url": "http://saorpi.ddns.net:8899/clients/SAO2-8-5-1.zip",
 		  "hash": "a5421c998878128d37657f43a1d09a16764da8db"
 		}
 	  ]
@@ -94,7 +94,7 @@
       "full": [
         {
           "action": "dl",
-          "url": "http://saohost2.ddns.net/clients/clientesao26.zip",
+          "url": "http://saorpi.ddns.net:8899/clients/clientesao26.zip",
           "hash": "04c25800240bc53359e63d13ec9eac93f1ec3261"
         }
       ]
