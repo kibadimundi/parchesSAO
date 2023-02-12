@@ -3,6 +3,22 @@
   "versions": 
   [
   {
+		"version": "SAO-2023-02-hotfix",
+		"prev": "SAO-2022-11",
+		"update":
+		[
+			{
+				"action": "deleteDir",
+				"target": "base/characters/Mood_Matrix"
+			},
+			{
+				"action": "dl",
+				"url": "http://kibadimundi.ddns.net:8899/SAO_2023_02/SAO-2023-02-hotfix.zip",
+				"hash": "8aa83d936db6bfb33f14d2069c4be30e4889fb00"
+			}
+		],
+  },
+  {
 		"version": "SAO-2022-11",
 		"prev": "SAO-2021-08",
 		"update":
