@@ -1,6 +1,62 @@
 {
   "launcher": { "version": "1.3.0"},
   "versions": [
+	  {
+		  "version": "SAO2.11",
+		  "prev": "SAO2.10",
+		  "executable": "Attorney_Online.exe",
+		  "update": [
+			  {"action": "deleteDir",
+				  "target": "base/themes/default"},
+			  {"action": "deleteDir",
+				  "target": "base/themes/SAO1080p"},
+			  {"action": "deleteDir",
+				  "target": "base/themes/SAOPortatil"},
+			  {"action": "deleteDir",
+				  "target": "imageformats"},
+			  {"action": "deleteDir",
+				  "target": "platforms"},
+			  {"action": "delete",
+				  "target": "Attorney_Online.exe"},
+			  {"action": "delete",
+				  "target": "bass.dll"},
+			  {"action": "delete",
+				  "target": "bassmidi.dll"},
+			  {"action": "delete",
+				  "target": "bassopus.dll"},
+			  {"action": "delete",
+				  "target": "d3dcompiler_47.dll"},
+			  {"action": "delete",
+				  "target": " discord-rpc.dll"},
+			  {"action": "delete",
+				  "target": "libEGL.dll"},
+			  {"action": "delete",
+				  "target": "libGLESv2.dll"},
+			  {"action": "delete",
+				  "target": "Qt5Core.dll"},
+			  {"action": "delete",
+				  "target": "Qt5Gui.dll"},
+			  {"action": "delete",
+				  "target": " Qt5Network.dll"},
+			  {"action": "delete",
+				  "target": "Qt5WebSockets.dll"},
+			  {"action": "delete",
+				  "target": "Qt5Widgets.dll"},
+			  {
+				  "action": "dl",
+				  "url": "http://kibadimundi.ddns.net:8899/clients/client_211_20_11_2024.zip",
+				  "hash": "8175b6684193413e01e1d2176086fcd38030cd16"
+			  }
+		  ],
+		  "full":[
+			  {
+				  "action": "dl",
+				  "url": "http://kibadimundi.ddns.net:8899/clients/client_211_20_11_2024.zip",
+				  "hash": "8175b6684193413e01e1d2176086fcd38030cd16"
+			  }
+		  ]
+
+	  },
 	{
 		"version": "SAO2.10",
 	  	"prev": "SAO2.8",
