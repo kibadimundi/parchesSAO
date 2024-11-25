@@ -188,35 +188,36 @@
           "target": "base/characters/Ryuutarou"
         },
         {
-			"action": "dl",
-			"url": "http://kibadimundi.ddns.net:8899/SAO_2024_11/SAO_2024_11_25_1.zip",
-			"hash": "5522d46c29029272ebd2faff7dfe08ddc8844423"
+          "action": "dl",
+          "url": "http://kibadimundi.ddns.net:8899/SAO_2024_11/SAO_2024_11_25_1.zip",
+          "hash": "5522d46c29029272ebd2faff7dfe08ddc8844423"
         },
-		  {
-			  "action": "dl",
-			  "url": "http://kibadimundi.ddns.net:8899/SAO_2024_11/SAO_2024_11_25_2.zip",
-			  "hash": "b90c8c772e8b515894acc90788b0e4c27f4c52d3"
-		  },
-		  {
-			  "action": "dl",
-			  "url": "http://kibadimundi.ddns.net:8899/SAO_2024_11/SAO_2024_11_25_3.zip",
-			  "hash": "ea5a0865245730ec8f64b8cf6e8137b263a9e8f3"
-		  },
-		  {
-			  "action": "dl",
-			  "url": "http://kibadimundi.ddns.net:8899/SAO_2024_11/SAO_2024_11_25_4.zip",
-			  "hash": "66a8ce887fa7d2c5f9cdf73cfd9740c7a6333b9c"
-		  },
-		  {
-			  "action": "dl",
-			  "url": "http://kibadimundi.ddns.net:8899/SAO_2024_11/SAO_2024_11_25_5.zip",
-			  "hash": "ceffe593838709b597a565f9f39315467d1f79b2"
-		  },
-		  {
-			  "action": "dl",
-			  "url": "http://kibadimundi.ddns.net:8899/SAO_2024_11/SAO_2024_11_25_6.zip",
-			  "hash": "34e5b467b323fdab9912857f16d79bfd6c810f10"
-		  }, {
+        {
+          "action": "dl",
+          "url": "http://kibadimundi.ddns.net:8899/SAO_2024_11/SAO_2024_11_25_2.zip",
+          "hash": "b90c8c772e8b515894acc90788b0e4c27f4c52d3"
+        },
+        {
+          "action": "dl",
+          "url": "http://kibadimundi.ddns.net:8899/SAO_2024_11/SAO_2024_11_25_3.zip",
+          "hash": "ea5a0865245730ec8f64b8cf6e8137b263a9e8f3"
+        },
+        {
+          "action": "dl",
+          "url": "http://kibadimundi.ddns.net:8899/SAO_2024_11/SAO_2024_11_25_4.zip",
+          "hash": "66a8ce887fa7d2c5f9cdf73cfd9740c7a6333b9c"
+        },
+        {
+          "action": "dl",
+          "url": "http://kibadimundi.ddns.net:8899/SAO_2024_11/SAO_2024_11_25_5.zip",
+          "hash": "ceffe593838709b597a565f9f39315467d1f79b2"
+        },
+        {
+          "action": "dl",
+          "url": "http://kibadimundi.ddns.net:8899/SAO_2024_11/SAO_2024_11_25_6.zip",
+          "hash": "34e5b467b323fdab9912857f16d79bfd6c810f10"
+        },
+        {
           "action": "dl",
           "url": "http://kibadimundi.ddns.net:8899/SAO_2024_11/SAO_2024_11_25_7.zip",
           "hash": "cce5bf3e60da56e347587d0b6df43079b4cb8581"
