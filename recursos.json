@@ -216,7 +216,11 @@
 			  "action": "dl",
 			  "url": "http://kibadimundi.ddns.net:8899/SAO_2024_11/SAO_2024_11_25_6.zip",
 			  "hash": "34e5b467b323fdab9912857f16d79bfd6c810f10"
-		  }
+		  }, {
+          "action": "dl",
+          "url": "http://kibadimundi.ddns.net:8899/SAO_2024_11/SAO_2024_11_25_7.zip",
+          "hash": "cce5bf3e60da56e347587d0b6df43079b4cb8581"
+        }
       ]
     },
     {
