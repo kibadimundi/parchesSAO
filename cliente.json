@@ -1,6 +1,18 @@
 {
   "launcher": { "version": "1.3.0"},
-  "versions": [
+  "versions": [{
+	  "version": "SAO2.11.1",
+	  "prev": "SAO2.11",
+	  "executable": "Attorney_Online.exe",
+	  "update": [
+		  {
+			  "action": "dl",
+			  "url": "http://kibadimundi.ddns.net:8899/clients/client_2_11_fix_saoportatil_04_06_2025.zip",
+			  "hash": "cddd43b5b3f1dc4f3033b437e93ac9af4611cefd"
+		  }
+	  ]
+
+  	},
 	  {
 		  "version": "SAO2.11",
 		  "prev": "SAO2.10",
